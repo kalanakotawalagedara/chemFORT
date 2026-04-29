@@ -1,5 +1,5 @@
 streamlit
-rdkit
+rdkit-pypi
 streamlit-ketcher
 pillow
 py3Dmol
