@@ -2,3 +2,4 @@ streamlit
 rdkit
 streamlit-ketcher
 pillow
+py3Dmol
